@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import projectOne from "../images/projectOne.png"
 import projectTwo from "../images/projectTwo.png"
 import homework03 from "../images/Homework03.png"
