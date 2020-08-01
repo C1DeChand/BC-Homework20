@@ -15,13 +15,13 @@ function Contact() {
                     <div className="collapse navbar-collapse" id="navLinks">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <Link className="nav-link active" to="/contact" style={{color: "White", fontWeight: 600}}>Contact</Link>
+                                <Link className="nav-link active" to="/BC-Homework20/contact" style={{color: "White", fontWeight: 600}}>Contact</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/portfolio">Portfolio</Link>
+                                <Link className="nav-link" to="/BC-Homework20/portfolio">Portfolio</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/about">About</Link>
+                                <Link className="nav-link" to="/BC-Homework20/about">About</Link>
                             </li>
                         </ul>
                     </div>

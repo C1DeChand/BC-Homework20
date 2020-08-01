@@ -20,13 +20,13 @@ function Portfolio() {
                     <div className="collapse navbar-collapse" id="navLinks">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <Link className="nav-link" to="/contact">Contact</Link>
+                                <Link className="nav-link" to="/BC-Homework20/contact">Contact</Link>
                             </li>
                             <li className="nav-item active">
-                                <Link className="nav-link" to="/portfolio" style={{color: "White", fontWeight: 600}}>Portfolio</Link>
+                                <Link className="nav-link" to="/BC-Homework20/portfolio" style={{color: "White", fontWeight: 600}}>Portfolio</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/about">About</Link>
+                                <Link className="nav-link" to="/BC-Homework20/about">About</Link>
                             </li>
                         </ul>
                     </div>

@@ -17,13 +17,13 @@ function About() {
                     <div className="collapse navbar-collapse ml-auto" id="navLinks">
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <Link className="nav-link" to="/contact">Contact</Link>
+                                <Link className="nav-link" to="/BC-Homework20/contact">Contact</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/portfolio">Portfolio</Link>
+                                <Link className="nav-link" to="/BC-Homework20/portfolio">Portfolio</Link>
                             </li>
                             <li className="nav-item active">
-                                <Link className="nav-link" to="/about" style={{color: "white", fontWeight: 600}}>About</Link>-+
+                                <Link className="nav-link" to="/BC-Homework20/about" style={{color: "white", fontWeight: 600}}>About</Link>-+
                             </li>
                         </ul>
                     </div>

@@ -8,10 +8,10 @@ function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={About} />
-        <Route path="/about" component={About} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/contact" component={Contact} />
+        <Route exact path="/BC-Homework20/" component={About} />
+        <Route path="/BC-Homework20/about" component={About} />
+        <Route path="/BC-Homework20/portfolio" component={Portfolio} />
+        <Route path="/BC-Homework20/contact" component={Contact} />
       </div>
     </Router>
   );
