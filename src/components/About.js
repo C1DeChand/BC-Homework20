@@ -38,7 +38,7 @@ function About() {
                         <hr></hr>
                         <div className="row">
                             <div className="col-12">
-                                <img src={aboutPic} className="card-img float-left" alt="Picture of Cameron DeChand." style={{width: "15rem", marginRight: "1rem"}}/>
+                                <img src={aboutPic} className="card-img float-left" alt="Cameron DeChand." style={{width: "15rem", marginRight: "1rem"}}/>
                                 <p className="card-text" id="cardText">
                                     My name is Cameron DeChand. I grew up in Seattle, WA and have lived here all my life. 
                                     I'm currently an employee of Fred Meyers as a Customer Enguagement Specialist within the Asset Protection Department. 
