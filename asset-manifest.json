@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/BC-Homework20/static/js/main.ac18606f.chunk.js",
-    "main.js.map": "/BC-Homework20/static/js/main.ac18606f.chunk.js.map",
+    "main.js": "/BC-Homework20/static/js/main.c4ab4541.chunk.js",
+    "main.js.map": "/BC-Homework20/static/js/main.c4ab4541.chunk.js.map",
     "runtime-main.js": "/BC-Homework20/static/js/runtime-main.96589ecc.js",
     "runtime-main.js.map": "/BC-Homework20/static/js/runtime-main.96589ecc.js.map",
     "static/js/2.05e0255f.chunk.js": "/BC-Homework20/static/js/2.05e0255f.chunk.js",
     "static/js/2.05e0255f.chunk.js.map": "/BC-Homework20/static/js/2.05e0255f.chunk.js.map",
     "index.html": "/BC-Homework20/index.html",
-    "precache-manifest.12086ac6b8e703a285c889905ea77d0e.js": "/BC-Homework20/precache-manifest.12086ac6b8e703a285c889905ea77d0e.js",
+    "precache-manifest.544aa5a17841cbe2caefd403069ae345.js": "/BC-Homework20/precache-manifest.544aa5a17841cbe2caefd403069ae345.js",
     "service-worker.js": "/BC-Homework20/service-worker.js",
     "static/js/2.05e0255f.chunk.js.LICENSE.txt": "/BC-Homework20/static/js/2.05e0255f.chunk.js.LICENSE.txt",
     "static/media/AboutPic.jpg": "/BC-Homework20/static/media/AboutPic.a7f6ddc1.jpg",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.96589ecc.js",
     "static/js/2.05e0255f.chunk.js",
-    "static/js/main.ac18606f.chunk.js"
+    "static/js/main.c4ab4541.chunk.js"
   ]
 }
