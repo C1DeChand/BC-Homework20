@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/BC-Homework20/static/js/main.b5ee4a09.chunk.js",
+    "main.js.map": "/BC-Homework20/static/js/main.b5ee4a09.chunk.js.map",
+    "runtime-main.js": "/BC-Homework20/static/js/runtime-main.96589ecc.js",
+    "runtime-main.js.map": "/BC-Homework20/static/js/runtime-main.96589ecc.js.map",
+    "static/js/2.05e0255f.chunk.js": "/BC-Homework20/static/js/2.05e0255f.chunk.js",
+    "static/js/2.05e0255f.chunk.js.map": "/BC-Homework20/static/js/2.05e0255f.chunk.js.map",
+    "index.html": "/BC-Homework20/index.html",
+    "precache-manifest.ce0857180d601ebb75ecdca4a17253e5.js": "/BC-Homework20/precache-manifest.ce0857180d601ebb75ecdca4a17253e5.js",
+    "service-worker.js": "/BC-Homework20/service-worker.js",
+    "static/js/2.05e0255f.chunk.js.LICENSE.txt": "/BC-Homework20/static/js/2.05e0255f.chunk.js.LICENSE.txt",
+    "static/media/AboutPic.jpg": "/BC-Homework20/static/media/AboutPic.a7f6ddc1.jpg",
+    "static/media/Homework03.png": "/BC-Homework20/static/media/Homework03.8c542035.png",
+    "static/media/Homework05.png": "/BC-Homework20/static/media/Homework05.4a7ff57c.png",
+    "static/media/Homework06.png": "/BC-Homework20/static/media/Homework06.26300c57.png",
+    "static/media/homework13.png": "/BC-Homework20/static/media/homework13.b0d0aa76.png",
+    "static/media/projectOne.png": "/BC-Homework20/static/media/projectOne.ab233634.png",
+    "static/media/projectTwo.png": "/BC-Homework20/static/media/projectTwo.91ab59f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96589ecc.js",
+    "static/js/2.05e0255f.chunk.js",
+    "static/js/main.b5ee4a09.chunk.js"
+  ]
+}
