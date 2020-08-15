@@ -55,7 +55,7 @@ function About() {
                                         <a className="btn btn-dark btn-lg" href="https://www.linkedin.com/in/C1DeChand/">LinkedIn</a>
                                     </div>
                                     <div className="col-4 text-center">
-                                        <a className="btn btn-dark btn-lg" href="./assets/Cameron DeChand Resume.pdf">Resume</a>
+                                        <p className="btn btn-dark btn-lg"><a href="../images/CameronDeChandResume.pdf">Resume</a></p>
                                     </div>
                                     <div className="col-4 text-center">
                                         <a className="btn btn-dark btn-lg" href="https://github.com/C1DeChand">GitHub</a>
